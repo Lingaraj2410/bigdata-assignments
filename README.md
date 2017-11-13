@@ -1,4 +1,4 @@
-# bigdata-assignment 1.1
+# bigdata assignment 1.1
 
 # Steps followed:
 
